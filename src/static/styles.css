@@ -74,6 +74,22 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.activity-card ul {
+  /* Remove participants section styling */
+}
+
+.activity-card ul li {
+  /* Remove participants section styling */
+}
+
+.activity-card ul::-webkit-scrollbar {
+  /* Remove custom scrollbar styling */
+}
+
+.activity-card ul::-webkit-scrollbar-thumb {
+  /* Remove custom scrollbar thumb styling */
+}
+
 .form-group {
   margin-bottom: 15px;
 }
